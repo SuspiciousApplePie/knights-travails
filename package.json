@@ -1,0 +1,25 @@
+{
+  "name": "knights-travails",
+  "version": "1.0.0",
+  "description": "Knights Travails in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuspiciousApplePie/knights-travails.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SuspiciousApplePie/knights-travails/issues"
+  },
+  "homepage": "https://github.com/SuspiciousApplePie/knights-travails#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.5",
+    "jest": "^30.4.2"
+  }
+}
