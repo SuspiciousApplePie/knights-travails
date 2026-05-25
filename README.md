@@ -20,7 +20,7 @@ Tools used:
 
 ### How to use
 
-1. Clone using this command: git clone https://github.com/SuspiciousApplePie/hashmap.git.
+1. Clone using this command: git clone `https://github.com/SuspiciousApplePie/knights-travails.git`.
 2. Install Jest: npm install --save-dev jest.
 3. Install Babel: npm install --save-dev @babel/preset-env.
 4. Done.
