@@ -32,8 +32,15 @@ export function knightMoves(start, end) {
         }
       }
     });
-    console.log(match);
-    if (match) return match;
+
+    if (match) {
+      console.log(`You made it in ${match.length - 1}`);
+      match.forEach((item) => {
+        console.log(item);
+      });
+
+      return match;
+    }
   }
 
   function NNE(coordinates) {
