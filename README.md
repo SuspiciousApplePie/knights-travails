@@ -1,6 +1,6 @@
 # knights-travails
 
-Knights Travails is a simple function that tracks the most efficient path in a chessboard.
+Knights Travails is a simple function that tracks the most efficient path in a chessboard for a knight.
 
 Tools used:
 
