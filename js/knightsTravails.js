@@ -34,7 +34,7 @@ export function knightMoves(start, end) {
     });
 
     if (match) {
-      console.log(`You made it in ${match.length - 1}`);
+      console.log(`You made it in ${match.length - 1} moves!`);
       match.forEach((item) => {
         console.log(item);
       });
